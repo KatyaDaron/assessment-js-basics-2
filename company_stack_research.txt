@@ -14,6 +14,8 @@ However, there are technologies commonly used at Perficient:
 - DevOps and Automation: Tools like Jenkins, Git, Docker, Kubernetes and related technologies.
 - Mobile Development: Native and cross-platform mobile app development using technologies such as iOS (Swift, Objective-C), Android (Java, Kotlin), React Native, Xamarin.
 
+As mentioned above Perficient's technology stack may be chosen based on the specific requirements of their clients. Different clients may have different technology preferences, existing infrastructure or business needs. Perficient's technology stack may be based on the expertise and skillsets of their development teams, it may be selected to leverage the skills and capabilities of their workforce, ensuring efficient development, maintenance and support of solutions. Innovative technologies used in Perficient's technology stack allows them to stay ahead of the competition.
+
 
 2. LinkedIn:
 
@@ -28,6 +30,8 @@ Variety of modern technologies and frameworks are used by LinkedIn. Some example
 - DevOps and Automation: Tools like Jenkins, Git, Docker, Kubernetes and other DevOps and automation technologies for continuous integration, continuous delivery, and automated deployment of code and infrastructure changes.
 - Machine Learning and Data Science: LinkedIn employs machine learning and data science technologies for various purposes, such as personalization, recommendations and fraud detection, using frameworks and libraries like TensorFlow, PyTorch, scikit-learn and others.
 
+LinkedIn uses a particular technology stack for various reasons including scalability to be able to handle the scale and performance requirements of such a large-scale platform. Specialization of LinkedIn is a professional networking, thus, their technologies designed for handling user profiles, resumes, job listings, and networking features. Also, LinkedIn is a platform that deals with sensitive professional information, including user profiles and job-related data. Therefore, their technology stack may prioritize security features and practices, such as encryption and authentication.
+
 
 3. Apple:
 
@@ -40,9 +44,6 @@ Apple uses a wide range of technologies across its various products and services
 - Development Frameworks and Tools: Xcode (an integrated development environment), Cocoa Touch (a framework for developing iOS apps), UIKit (a user interface framework for iOS), AppKit (a user interface framework for macOS) and other.
 - Cloud Services: Apple may also use cloud services, such as iCloud, for storing and syncing data across its devices and services as well as other cloud-based technologies for scalable data storage, processing and analysis.
 
-
-
-
-
+By having its own technology stack, Apple ensures seamless user experience. It allows Apple to create their own frameworks and tools that are tailored to its specific needs. This enables Apple to have greater flexibility in introducing new features, optimizing performance and customizing its products and services to meet its unique design and functionality goals. Also, Apple's technology stack contributes to its brand identity.
 
 
